@@ -4,9 +4,9 @@
     "/": {
       "renderingMode": "PARTIALLY_STATIC",
       "routeType": "page",
-      "response": "complete",
+      "response": "initial",
       "compute": "static",
-      "htmlSize": 26201,
+      "htmlSize": 26843,
       "experimentalPPR": true,
       "experimentalBypassFor": [
         {
@@ -42,7 +42,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 9238,
+      "htmlSize": 9135,
       "experimentalPPR": true,
       "experimentalBypassFor": [
         {
@@ -77,9 +77,9 @@
       "initialStatus": 404,
       "renderingMode": "PARTIALLY_STATIC",
       "routeType": "page",
-      "response": "complete",
+      "response": "initial",
       "compute": "static",
-      "htmlSize": 10547,
+      "htmlSize": 11183,
       "experimentalPPR": true,
       "experimentalBypassFor": [
         {

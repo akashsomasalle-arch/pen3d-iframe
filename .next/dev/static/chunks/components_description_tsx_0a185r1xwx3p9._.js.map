@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Akash/Release/pen3d/components/description.tsx"],"sourcesContent":["\"use client\";\r\nimport Link from \"next/link\";\r\n\r\nexport default function Description() {\r\n  return (\r\n    <div className=\"w-full flex justify-center border-b border-gray-300 h-25 font-[cursive] text-xl\">\r\n    </div>\r\n  );\r\n}\r\n"],"names":["Description","className"],"mappings":";;;;;AAAA;;AAGe,SAASA;IACtB,qBACE,6LAAC;QAAIC,WAAU;;;;;;AAGnB;KALwBD"}}]
-}

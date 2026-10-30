@@ -105,7 +105,7 @@ self.__SERVER_FILES_MANIFEST={
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Akash\\Release\\pen3d",
+    "outputFileTracingRoot": "C:\\Akash\\Release\\pen3d-iframe-build",
     "enablePrerenderSourceMaps": true,
     "cacheComponents": true,
     "cacheLife": {
@@ -345,12 +345,12 @@ self.__SERVER_FILES_MANIFEST={
           "as": "*.css"
         }
       },
-      "root": "C:\\Akash\\Release\\pen3d"
+      "root": "C:\\Akash\\Release\\pen3d-iframe-build"
     },
-    "repoRoot": "C:\\Akash\\Release\\pen3d",
+    "repoRoot": "C:\\Akash\\Release\\pen3d-iframe-build",
     "distDirRoot": ".next"
   },
-  "appDir": "C:\\Akash\\Release\\pen3d",
+  "appDir": "C:\\Akash\\Release\\pen3d-iframe-build",
   "relativeAppDir": "",
   "files": [
     ".next\\package.json",
